@@ -1,8 +1,6 @@
 ## VGG_MNIST
 This is a project on MNIST dataset classification using tensorflow with the VGG16 network stucture.
 
-Just try
-
 ### Network Stucture
 + Resize mnist images to 224\*224
 + 2 64-hidden\_dim convolutional layers
